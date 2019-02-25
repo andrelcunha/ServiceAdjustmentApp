@@ -4,4 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Insurance/assets/_Scenes/Adjustment_App.unity
+    guid: a7f696da64d2b4ad49c5f734b98cabd5
+  m_configObjects: {}

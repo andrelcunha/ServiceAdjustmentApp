@@ -1,5 +1,4 @@
 ﻿using UnityEngine;
-using _2MuchPines.Templates;
 
 public class UIManager : MonoBehaviour
 {
